@@ -1,0 +1,29 @@
+
+.SwatchGroup {
+  margin: 0;
+  padding: 0;
+}
+
+.Swatch {
+  background-color: white;
+  padding: 0;
+  @include box-shadow(0, 1px, 3px, rgba(0, 0, 0, 0.12));
+  @include margin-bottom(large);
+}
+
+.Swatch-preview {
+  content: "";
+  display: block;
+  height: 60px;
+}
+
+.Swatch-detail {
+  @include padding(small);
+  @include text-color(gray-8);
+}
+
+.Swatch-detail-variable {
+  display: block;
+  @include font-family(monospace);
+  @include font-size(small);
+}

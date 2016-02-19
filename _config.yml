@@ -1,0 +1,35 @@
+# Directory where the site will be built from
+source: docs
+
+permalink: pretty
+
+port: 8001
+
+# Because the deployed site doesn’t live at the root fac.github.io URL; it lives
+# at fac.github.io/origin
+baseurl: "/origin"
+
+# Because we use pages rather than posts for our content, we have to list those
+# categories here to be able to list pages by category
+categories: [guidance, utilities, components, layout]
+
+# Markdown processors
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  auto_ids: true
+
+version: 1.2.0
+
+sass:
+  # Directory points to root allowing `@import` of .scss files from anywhere
+  sass_dir: assets/scss
+  # Note this doesn't affect anything because we use Grunt; instead set the
+  # output style in Gruntfile.js
+  style: compressed
+
+github:
+  repo: https://github.com/fac/origin
+
+# Prevent Jekyll from clobbering assets that Grunt handles
+keep_files: ['_site/assets/css', '_site/assets/fonts', '_site/assets/js']
