@@ -4,7 +4,7 @@ layout: page
 scss-filename: _padding.scss
 title: padding
 ---
-Our `padding` utility has a standard scale of values ranging from `xx-small` to `xx-large`. These can be applied using our `padding` Sass mixin, or using `u-padding--#` utility classes in HTML.
+Our `padding` utility has a standard scale of values ranging from `xx-small` to `xx-large`. These can be applied using our `padding` Sass mixin, or using `padding--#` utility classes in HTML.
 
 Values can optionally be applied only at specific [breakpoints]({{ site.baseurl }}/utilities/breakpoint).
 
