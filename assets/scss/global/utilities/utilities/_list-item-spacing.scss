@@ -17,11 +17,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-list-item-spacing == true {
+@if $classes-list-item-spacing == true {
 
   @each $list-item-spacing, $list-item-spacing-value in $list-item-spacing-values {
 
-    .u-list-item-spacing--#{$list-item-spacing} li {
+    .list-item-spacing--#{$list-item-spacing} li {
       margin-bottom: $list-item-spacing-value !important;
     }
 

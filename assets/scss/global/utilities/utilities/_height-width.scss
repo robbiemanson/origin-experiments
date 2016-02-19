@@ -9,11 +9,11 @@
 /* `height`
    ========================================================================== */
 
-@if $u-classes-height-width == true {
+@if $classes-height-width == true {
 
   @each $height, $height-value in $height-values {
 
-    .u-height--#{$height} {
+    .height--#{$height} {
       height: $height-value !important;
     }
 
@@ -24,11 +24,11 @@
 /* `max-width`
    ========================================================================== */
 
-@if $u-classes-height-width == true {
+@if $classes-height-width == true {
 
   @each $max-width, $max-width-value in $max-width-values {
 
-    .u-max-width--#{$max-width} {
+    .max-width--#{$max-width} {
       max-width: $max-width-value !important;
     }
 
@@ -40,11 +40,11 @@
 /* `min-height`
    ========================================================================== */
 
-@if $u-classes-height-width == true {
+@if $classes-height-width == true {
 
   @each $min-height, $min-height-value in $min-height-values {
 
-    .u-min-height--#{$min-height} {
+    .min-height--#{$min-height} {
       min-height: $min-height-value !important;
     }
 
@@ -56,11 +56,11 @@
 /* `width`
    ========================================================================== */
 
-@if $u-classes-height-width == true {
+@if $classes-height-width == true {
 
   @each $width-size, $width-value in $width-values {
 
-    .u-width--#{$width-size} {
+    .width--#{$width-size} {
       width: $width-value !important;
     }
 

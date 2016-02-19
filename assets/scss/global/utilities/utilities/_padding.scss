@@ -42,29 +42,29 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-padding == true {
+@if $classes-padding == true {
 
   /**
    * Generate default spacing classes
    */
 
-   .u-padding {
+   .padding {
      padding: $spacing--default !important;
    }
 
-   .u-padding-bottom {
+   .padding-bottom {
      padding-bottom: $spacing--default !important;
    }
 
-   .u-padding-left {
+   .padding-left {
      padding-left: $spacing--default !important;
    }
 
-   .u-padding-right {
+   .padding-right {
      padding-right: $spacing--default !important;
    }
 
-   .u-padding-top {
+   .padding-top {
      padding-top: $spacing--default !important;
    }
 
@@ -79,31 +79,31 @@
       */
 
      @include break($breakpoint-size) {
-       .u-#{$breakpoint-size}-padding {
+       .#{$breakpoint-size}-padding {
          padding: $spacing--default !important;
        }
      }
 
      @include break($breakpoint-size) {
-       .u-#{$breakpoint-size}-padding-bottom {
+       .#{$breakpoint-size}-padding-bottom {
          padding-bottom: $spacing--default !important;
        }
      }
 
      @include break($breakpoint-size) {
-       .u-#{$breakpoint-size}-padding-left {
+       .#{$breakpoint-size}-padding-left {
          padding-left: $spacing--default !important;
        }
      }
 
      @include break($breakpoint-size) {
-       .u-#{$breakpoint-size}-padding-right {
+       .#{$breakpoint-size}-padding-right {
          padding-right: $spacing--default !important;
        }
      }
 
      @include break($breakpoint-size) {
-       .u-#{$breakpoint-size}-padding-top {
+       .#{$breakpoint-size}-padding-top {
          padding-top: $spacing--default !important;
        }
      }
@@ -120,23 +120,23 @@
      * practice the full scale has never been needed.
      */
 
-    .u-padding--#{$spacing-size} {
+    .padding--#{$spacing-size} {
       padding: $standard-scale-spacing-value !important;
     }
 
-    .u-padding-bottom--#{$spacing-size} {
+    .padding-bottom--#{$spacing-size} {
       padding-bottom: $standard-scale-spacing-value !important;
     }
 
-    .u-padding-left--#{$spacing-size} {
+    .padding-left--#{$spacing-size} {
       padding-left: $standard-scale-spacing-value !important;
     }
 
-    .u-padding-right--#{$spacing-size} {
+    .padding-right--#{$spacing-size} {
       padding-right: $standard-scale-spacing-value !important;
     }
 
-    .u-padding-top--#{$spacing-size} {
+    .padding-top--#{$spacing-size} {
       padding-top: $standard-scale-spacing-value !important;
     }
 
@@ -147,31 +147,31 @@
        */
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-padding--#{$spacing-size} {
+        .#{$breakpoint-size}-padding--#{$spacing-size} {
           padding: $standard-scale-spacing-value !important;
         }
       }
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-padding-bottom--#{$spacing-size} {
+        .#{$breakpoint-size}-padding-bottom--#{$spacing-size} {
           padding-bottom: $standard-scale-spacing-value !important;
         }
       }
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-padding-left--#{$spacing-size} {
+        .#{$breakpoint-size}-padding-left--#{$spacing-size} {
           padding-left: $standard-scale-spacing-value !important;
         }
       }
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-padding-right--#{$spacing-size} {
+        .#{$breakpoint-size}-padding-right--#{$spacing-size} {
           padding-right: $standard-scale-spacing-value !important;
         }
       }
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-padding-top--#{$spacing-size} {
+        .#{$breakpoint-size}-padding-top--#{$spacing-size} {
           padding-top: $standard-scale-spacing-value !important;
         }
       }

@@ -48,11 +48,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-flex-justify-content == true {
+@if $classes-flex-justify-content == true {
 
   @each $flex-justify-content-value in $flex-justify-content-values {
 
-    .u-flex-justify-content--#{$flex-justify-content-value} {
+    .flex-justify-content--#{$flex-justify-content-value} {
       @include flex-justify-content(#{$flex-justify-content-value}, !important);
     }
 

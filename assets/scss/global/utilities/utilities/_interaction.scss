@@ -13,11 +13,11 @@
 /* `pointer-events`
    ========================================================================== */
 
-@if $u-classes-interaction == true {
+@if $classes-interaction == true {
 
   @each $pointer-events-value in $pointer-events-values {
 
-    .u-pointer-events--#{$pointer-events-value} {
+    .pointer-events--#{$pointer-events-value} {
       pointer-events: $pointer-events-value !important;
     }
 
@@ -41,9 +41,9 @@
   }
 }
 
-@if $u-classes-interaction == true {
+@if $classes-interaction == true {
 
-  .u-tap-highlight--none {
+  .tap-highlight--none {
     -webkit-tap-highlight-color: transparent !important;
     -webkit-touch-callout: none !important;
   }
@@ -61,11 +61,11 @@
   user-select: $values;
 }
 
-@if $u-classes-interaction == true {
+@if $classes-interaction == true {
 
   @each $user-select-value in $user-select-values {
 
-    .u-user-select--#{$user-select-value} {
+    .user-select--#{$user-select-value} {
       -moz-user-select: $user-select-value !important;
       -ms-user-select: $user-select-value !important;
       -webkit-user-select: $user-select-value !important;

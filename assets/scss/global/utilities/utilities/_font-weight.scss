@@ -18,11 +18,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-font-weight == true {
+@if $classes-font-weight == true {
 
   @each $font-weight, $font-weight-value in $font-weight-values {
 
-    .u-font-weight--#{$font-weight} {
+    .font-weight--#{$font-weight} {
       font-weight: $font-weight-value !important;
     }
 

@@ -10,7 +10,7 @@
  * A `border-width` of `3` becomes `thick`, a `gray-6` color becomes `light`.
  *
  * These alias variables are what the mixins for each utility use to generate
- * the `u-property--#` utility classes.
+ * the `property--#` utility classes.
  *
  * Finally, Sass lists and maps of our alias variables are defined. These lists
  * and maps are what allow our alias variables to be passed as arguments to our
@@ -487,7 +487,7 @@ $font-size--xx-large: $font-size--10;
 /**
  * Standard scale map
  *
- * A smaller map used to generate the `u-font-size--#` utility classes, as we've
+ * A smaller map used to generate the `font-size--#` utility classes, as we've
  * never needed the full map of values to be available as classes. Doing so
  * would just add unnecessary weight to our output CSS.
  */
@@ -647,7 +647,7 @@ $line-height--xx-loose: $line-height--11;
 /**
  * Standard scale map
  *
- * A smaller map used to generate the `u-line-height--#` utility classes, as
+ * A smaller map used to generate the `line-height--#` utility classes, as
  * we've never needed the full map of values to be available as classes. Doing
  * so would just add unnecessary weight to our output CSS.
  */
@@ -793,7 +793,7 @@ $list-item-spacing--xx-loose: $spacing--4;
 /**
  * Standard scale map
  *
- * A smaller map used to generate the `u-margin--#` and `u-padding--#` utility
+ * A smaller map used to generate the `margin--#` and `padding--#` utility
  * classes, as we've never needed the full map of values to be available as
  * classes. Doing so would just add unnecessary weight to our output CSS.
  */

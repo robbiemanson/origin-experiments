@@ -23,9 +23,9 @@
   font-kerning: normal;
 }
 
-@if $u-classes-text-formatting == true {
+@if $classes-text-formatting == true {
 
-  .u-font-kerning--normal {
+  .font-kerning--normal {
     @include font-kerning(!important);
   }
 
@@ -35,11 +35,11 @@
 /* `font-style`
    ========================================================================== */
 
-@if $u-classes-text-formatting == true {
+@if $classes-text-formatting == true {
 
   @each $font-style-value in $font-style-values {
 
-    .u-font-style--#{$font-style-value} {
+    .font-style--#{$font-style-value} {
       font-style: $font-style-value !important;
     }
 
@@ -51,11 +51,11 @@
 /* `text-align`
    ========================================================================== */
 
-@if $u-classes-text-formatting == true {
+@if $classes-text-formatting == true {
 
   @each $text-align-value in $text-align-values {
 
-    .u-text-align--#{$text-align-value} {
+    .text-align--#{$text-align-value} {
       text-align: $text-align-value !important;
     }
 
@@ -76,9 +76,9 @@
   word-wrap: normal $important;
 }
 
-@if $u-classes-text-formatting == true {
+@if $classes-text-formatting == true {
 
-  .u-text-truncate {
+  .text-truncate {
     @include text-truncate(!important);
   }
 
@@ -93,9 +93,9 @@
   white-space: normal $important;
 }
 
-@if $u-classes-text-formatting == true {
+@if $classes-text-formatting == true {
 
-  .u-text-multiLine {
+  .text-multiLine {
     @include text-multiLine(!important);
   }
 
@@ -105,9 +105,9 @@
 /* `white-space`
    ========================================================================== */
 
-@if $u-classes-text-formatting == true {
+@if $classes-text-formatting == true {
 
-  .u-white-space--nowrap {
+  .white-space--nowrap {
     white-space: nowrap !important;
   }
 
@@ -117,11 +117,11 @@
 /* `word-wrap`
    ========================================================================== */
 
-@if $u-classes-text-formatting == true {
+@if $classes-text-formatting == true {
 
   @each $word-wrap-value in $word-wrap-values {
 
-    .u-word-wrap--#{$word-wrap-value} {
+    .word-wrap--#{$word-wrap-value} {
       word-wrap: $word-wrap-value !important;
     }
 

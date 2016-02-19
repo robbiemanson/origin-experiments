@@ -95,11 +95,11 @@
   color: darken($color--base, 10%);
 }
 
-.u-background-color--fa-blue .SegmentedControl--contrastHigh .SegmentedControl-segment {
+.background-color--fa-blue .SegmentedControl--contrastHigh .SegmentedControl-segment {
   color: darken($color--base, 15%);
 }
 
-.u-background-color--fa-blue .SegmentedControl--contrastHigh .SegmentedControl-segment:active {
+.background-color--fa-blue .SegmentedControl--contrastHigh .SegmentedControl-segment:active {
   background: darken($color--base, 1.5%);
 }
 

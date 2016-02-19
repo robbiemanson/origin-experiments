@@ -20,11 +20,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-flex-shrink == true {
+@if $classes-flex-shrink == true {
 
   @for $i from 0 through 10 {
 
-    .u-flex-shrink--#{$i} {
+    .flex-shrink--#{$i} {
       @include flex-shrink($i, !important);
     }
 

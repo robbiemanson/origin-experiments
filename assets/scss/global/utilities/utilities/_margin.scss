@@ -40,7 +40,7 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-margin == true {
+@if $classes-margin == true {
 
   @each $spacing-size, $standard-scale-spacing-value in $standard-scale-spacing-values {
 
@@ -52,23 +52,23 @@
      * practice the full scale has never been needed.
      */
 
-    .u-margin--#{$spacing-size} {
+    .margin--#{$spacing-size} {
       margin: $standard-scale-spacing-value !important;
     }
 
-    .u-margin-bottom--#{$spacing-size} {
+    .margin-bottom--#{$spacing-size} {
       margin-bottom: $standard-scale-spacing-value !important;
     }
 
-    .u-margin-left--#{$spacing-size} {
+    .margin-left--#{$spacing-size} {
       margin-left: $standard-scale-spacing-value !important;
     }
 
-    .u-margin-right--#{$spacing-size} {
+    .margin-right--#{$spacing-size} {
       margin-right: $standard-scale-spacing-value !important;
     }
 
-    .u-margin-top--#{$spacing-size} {
+    .margin-top--#{$spacing-size} {
       margin-top: $standard-scale-spacing-value !important;
     }
 
@@ -79,31 +79,31 @@
        */
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-margin--#{$spacing-size} {
+        .#{$breakpoint-size}-margin--#{$spacing-size} {
           margin: $standard-scale-spacing-value !important;
         }
       }
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-margin-bottom--#{$spacing-size} {
+        .#{$breakpoint-size}-margin-bottom--#{$spacing-size} {
           margin-bottom: $standard-scale-spacing-value !important;
         }
       }
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-margin-left--#{$spacing-size} {
+        .#{$breakpoint-size}-margin-left--#{$spacing-size} {
           margin-left: $standard-scale-spacing-value !important;
         }
       }
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-margin-right--#{$spacing-size} {
+        .#{$breakpoint-size}-margin-right--#{$spacing-size} {
           margin-right: $standard-scale-spacing-value !important;
         }
       }
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-margin-top--#{$spacing-size} {
+        .#{$breakpoint-size}-margin-top--#{$spacing-size} {
           margin-top: $standard-scale-spacing-value !important;
         }
       }

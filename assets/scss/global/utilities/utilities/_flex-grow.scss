@@ -21,11 +21,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-flex-grow == true {
+@if $classes-flex-grow == true {
 
   @for $i from 0 through 10 {
 
-    .u-flex-grow--#{$i} {
+    .flex-grow--#{$i} {
       @include flex-grow($i, !important);
     }
 

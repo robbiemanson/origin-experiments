@@ -34,11 +34,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-flex-align-self == true {
+@if $classes-flex-align-self == true {
 
   @each $flex-align-self-value in $flex-align-self-values {
 
-    .u-flex-align-self--#{$flex-align-self-value} {
+    .flex-align-self--#{$flex-align-self-value} {
       @include flex-align-self(#{$flex-align-self-value}, !important);
     }
 

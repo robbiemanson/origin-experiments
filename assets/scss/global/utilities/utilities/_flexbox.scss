@@ -31,13 +31,13 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-flexbox == true {
+@if $classes-flexbox == true {
 
-  .u-flexbox {
+  .flexbox {
     @include flexbox(!important);
   }
 
-  .u-inline-flexbox {
+  .inline-flexbox {
     @include flexbox(inline-flex, !important);
   }
 

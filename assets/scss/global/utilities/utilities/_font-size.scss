@@ -18,7 +18,7 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-font-size == true {
+@if $classes-font-size == true {
 
   @each $font-size, $standard-scale-font-size-value in $standard-scale-font-size-values {
 
@@ -30,7 +30,7 @@
      * practice the full scale has never been needed.
      */
 
-    .u-font-size--#{$font-size} {
+    .font-size--#{$font-size} {
       font-size: $standard-scale-font-size-value !important;
     }
 
@@ -41,7 +41,7 @@
        */
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-font-size--#{$font-size} {
+        .#{$breakpoint-size}-font-size--#{$font-size} {
           font-size: $standard-scale-font-size-value !important;
         }
       }

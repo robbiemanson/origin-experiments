@@ -37,27 +37,27 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-border == true {
+@if $classes-border == true {
 
   @each $border-width, $border-width-value in $border-width-values {
 
-    .u-border--#{$border-width} {
+    .border--#{$border-width} {
       border: $border-width-value !important;
     }
 
-    .u-border-bottom--#{$border-width} {
+    .border-bottom--#{$border-width} {
       border-bottom: $border-width-value !important;
     }
 
-    .u-border-left--#{$border-width} {
+    .border-left--#{$border-width} {
       border-left: $border-width-value !important;
     }
 
-    .u-border-right--#{$border-width} {
+    .border-right--#{$border-width} {
       border-right: $border-width-value !important;
     }
 
-    .u-border-top--#{$border-width} {
+    .border-top--#{$border-width} {
       border-top: $border-width-value !important;
     }
 

@@ -9,7 +9,7 @@
  * https://github.com/fac/origin/tree/master/assets/scss/global/utilities/_utility-values.scss
  */
 
-@if $u-classes-float == true {
+@if $classes-float == true {
 
   @each $float-value in $float-values {
 
@@ -17,7 +17,7 @@
      * Generate `float` classes without breakpoints
      */
 
-    .u-float--#{$float-value} {
+    .float--#{$float-value} {
       float: $float-value !important;
     }
 
@@ -28,7 +28,7 @@
        */
 
       @include break($breakpoint-size) {
-        .u-#{$breakpoint-size}-float--#{$float-value} {
+        .#{$breakpoint-size}-float--#{$float-value} {
           float: $float-value !important;
         }
       }
@@ -66,17 +66,17 @@
   }
 }
 
-@if $u-classes-float == true {
+@if $classes-float == true {
 
-  .u-floatContainer::before,
-  .u-floatContainer::after {
+  .floatContainer::before,
+  .floatContainer::after {
     /* 1 */
     content: " ";
     /* 2 */
     display: table;
   }
 
-  .u-floatContainer::after {
+  .floatContainer::after {
     clear: both;
   }
 

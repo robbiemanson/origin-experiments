@@ -47,11 +47,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-flex-direction == true {
+@if $classes-flex-direction == true {
 
   @each $flex-direction-value in $flex-direction-values {
 
-    .u-flex-direction--#{$flex-direction-value} {
+    .flex-direction--#{$flex-direction-value} {
       @include flex-direction(#{$flex-direction-value}, !important);
     }
 

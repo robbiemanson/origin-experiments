@@ -21,11 +21,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-flex-align-items == true {
+@if $classes-flex-align-items == true {
 
   @each $flex-align-items-value in $flex-align-items-values {
 
-    .u-flex-align-items--#{$flex-align-items-value} {
+    .flex-align-items--#{$flex-align-items-value} {
       @include flex-align-items(#{$flex-align-items-value}, !important);
     }
 

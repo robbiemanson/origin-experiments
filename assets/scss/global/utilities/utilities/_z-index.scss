@@ -20,11 +20,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-z-index == true {
+@if $classes-z-index == true {
 
   @each $z-index, $z-index-value in $z-index-values {
 
-    .u-z-index--#{$z-index-value} {
+    .z-index--#{$z-index-value} {
       z-index: $z-index-value !important;
     }
 

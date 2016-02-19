@@ -17,11 +17,11 @@
 /* Utility classes
    ========================================================================== */
 
-@if $u-classes-font-family == true {
+@if $classes-font-family == true {
 
   @each $font-family, $font-family-value in $font-family-values {
 
-    .u-font-family--#{$font-family} {
+    .font-family--#{$font-family} {
       font-family: $font-family-value !important;
     }
 
