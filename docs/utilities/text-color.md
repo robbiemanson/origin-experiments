@@ -13,7 +13,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--default">
+<div class="text-color--default">
   The default color for text
 </div>
 {% endexample %}
@@ -30,7 +30,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--dark">
+<div class="text-color--dark">
   The dark color for text
 </div>
 {% endexample %}
@@ -47,7 +47,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--light">
+<div class="text-color--light">
   The light color for text
 </div>
 {% endexample %}
@@ -64,7 +64,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--x-light">
+<div class="text-color--x-light">
   The x-light color for text
 </div>
 {% endexample %}
@@ -81,7 +81,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--xx-light">
+<div class="text-color--xx-light">
   The xx-light color for text
 </div>
 {% endexample %}
@@ -98,7 +98,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--positive">
+<div class="text-color--positive">
   The positive color for text
 </div>
 {% endexample %}
@@ -115,7 +115,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--warning">
+<div class="text-color--warning">
   The warning color for text
 </div>
 {% endexample %}
@@ -132,7 +132,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--negative">
+<div class="text-color--negative">
   The negative color for text
 </div>
 {% endexample %}
@@ -151,7 +151,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-blue">
+<div class="text-color--fa-blue">
   The fa-blue color for text
 </div>
 {% endexample %}
@@ -168,7 +168,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-blue--dark">
+<div class="text-color--fa-blue--dark">
   The fa-blue--dark color for text
 </div>
 {% endexample %}
@@ -185,7 +185,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-blue--x-dark">
+<div class="text-color--fa-blue--x-dark">
   The fa-blue--x-dark color for text
 </div>
 {% endexample %}
@@ -202,7 +202,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-blue--xx-dark">
+<div class="text-color--fa-blue--xx-dark">
   The fa-blue--xx-dark color for text
 </div>
 {% endexample %}
@@ -219,7 +219,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-green--text">
+<div class="text-color--fa-green--text">
   The fa-green--text color for text
 </div>
 {% endexample %}
@@ -238,7 +238,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-purple">
+<div class="text-color--fa-purple">
   The fa-purple color for text
 </div>
 {% endexample %}
@@ -255,7 +255,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-red--text">
+<div class="text-color--fa-red--text">
   The fa-red--text color for text
 </div>
 {% endexample %}
@@ -274,7 +274,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-red--dark">
+<div class="text-color--fa-red--dark">
   The fa-red--dark color for text
 </div>
 {% endexample %}
@@ -291,7 +291,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--fa-amber">
+<div class="text-color--fa-amber">
   The fa-amber color for text
 </div>
 {% endexample %}
@@ -308,7 +308,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-1">
+<div class="text-color--gray-1">
   The gray-1 color for text
 </div>
 {% endexample %}
@@ -325,7 +325,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-2">
+<div class="text-color--gray-2">
   The gray-2 color for text
 </div>
 {% endexample %}
@@ -342,7 +342,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-3">
+<div class="text-color--gray-3">
   The gray-3 color for text
 </div>
 {% endexample %}
@@ -359,7 +359,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-4">
+<div class="text-color--gray-4">
   The gray-4 color for text
 </div>
 {% endexample %}
@@ -376,7 +376,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-5">
+<div class="text-color--gray-5">
   The gray-5 color for text
 </div>
 {% endexample %}
@@ -393,7 +393,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-6">
+<div class="text-color--gray-6">
   The gray-6 color for text
 </div>
 {% endexample %}
@@ -410,7 +410,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-7">
+<div class="text-color--gray-7">
   The gray-7 color for text
 </div>
 {% endexample %}
@@ -427,7 +427,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-8">
+<div class="text-color--gray-8">
   The gray-8 color for text
 </div>
 {% endexample %}
@@ -444,7 +444,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-9">
+<div class="text-color--gray-9">
   The gray-9 color for text
 </div>
 {% endexample %}
@@ -461,7 +461,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-10">
+<div class="text-color--gray-10">
   The gray-10 color for text
 </div>
 {% endexample %}
@@ -478,7 +478,7 @@ New colors should be added only when they’re actually being used in a componen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-color--gray-11">
+<div class="text-color--gray-11">
   The gray-11 color for text
 </div>
 {% endexample %}

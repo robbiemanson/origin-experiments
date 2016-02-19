@@ -16,18 +16,18 @@ Related: [float]({{ site.baseurl }}/utilities/float)
 ### Examples
 <div class="DocsExample DocsExample--renderHidden">
 {% example html %}
-<div class="u-clear--both"></div>
+<div class="clear--both"></div>
 {% endexample %}
 </div>
 
 <div class="DocsExample DocsExample--renderHidden">
 {% example html %}
-<div class="u-clear--left"></div>
+<div class="clear--left"></div>
 {% endexample %}
 </div>
 
 <div class="DocsExample DocsExample--renderHidden">
 {% example html %}
-<div class="u-clear--right"></div>
+<div class="clear--right"></div>
 {% endexample %}
 </div>

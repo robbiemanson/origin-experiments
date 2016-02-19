@@ -20,10 +20,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 ### Examples
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox u-flex-wrap--nowrap">
-  <div class="u-background-color--gray-15">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
-  <div class="u-background-color--gray-12">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
-  <div class="u-background-color--gray-10">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+<div class="flexbox flex-wrap--nowrap">
+  <div class="background-color--gray-15">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+  <div class="background-color--gray-12">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+  <div class="background-color--gray-10">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
 </div>
 {% endexample %}
 </div>
@@ -40,10 +40,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox u-flex-wrap--wrap">
-  <div class="u-background-color--gray-15">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
-  <div class="u-background-color--gray-12">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
-  <div class="u-background-color--gray-10">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+<div class="flexbox flex-wrap--wrap">
+  <div class="background-color--gray-15">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+  <div class="background-color--gray-12">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+  <div class="background-color--gray-10">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
 </div>
 {% endexample %}
 </div>
@@ -60,10 +60,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox u-flex-wrap--wrap-reverse">
-  <div class="u-background-color--gray-15">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
-  <div class="u-background-color--gray-12">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
-  <div class="u-background-color--gray-10">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+<div class="flexbox flex-wrap--wrap-reverse">
+  <div class="background-color--gray-15">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+  <div class="background-color--gray-12">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
+  <div class="background-color--gray-10">The flex-wrap property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis, which determines the direction new lines are stacked in.</div>
 </div>
 {% endexample %}
 </div>

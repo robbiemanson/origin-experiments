@@ -19,7 +19,7 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 ### Examples
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-flexbox"></div>
+<div class="flexbox"></div>
 {% endexample %}
 </div>
 
@@ -34,7 +34,7 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-inline-flexbox"></div>
+<div class="inline-flexbox"></div>
 {% endexample %}
 </div>
 

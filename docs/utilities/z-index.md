@@ -15,6 +15,6 @@ All `z-index` values for an application should be kept in a dedicated `_z-index.
 
 ### Examples
 {% example html %}
-<div class="u-background-color--gray-13 z-index--1" style="height: 130px; width: 130px;">z-index: 1</div>
-<div class="u-background-color--gray-11 z-index--2" style="height: 50px; left: 55px; position: absolute; top: 70px; width: 130px;">z-index: 2</div>
+<div class="background-color--gray-13 z-index--1" style="height: 130px; width: 130px;">z-index: 1</div>
+<div class="background-color--gray-11 z-index--2" style="height: 50px; left: 55px; position: absolute; top: 70px; width: 130px;">z-index: 2</div>
 {% endexample %}

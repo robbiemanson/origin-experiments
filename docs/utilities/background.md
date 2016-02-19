@@ -28,7 +28,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-yellow"></div>
+<div class="background-color--fa-yellow"></div>
 {% endexample %}
   </div>
 
@@ -44,7 +44,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-amber"></div>
+<div class="background-color--fa-amber"></div>
 {% endexample %}
   </div>
 
@@ -60,7 +60,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-red"></div>
+<div class="background-color--fa-red"></div>
 {% endexample %}
   </div>
 
@@ -76,7 +76,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-purple"></div>
+<div class="background-color--fa-purple"></div>
 {% endexample %}
   </div>
 
@@ -92,7 +92,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-blue"></div>
+<div class="background-color--fa-blue"></div>
 {% endexample %}
   </div>
 
@@ -108,7 +108,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-green"></div>
+<div class="background-color--fa-green"></div>
 {% endexample %}
   </div>
 
@@ -130,7 +130,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-amber--dark"></div>
+<div class="background-color--fa-amber--dark"></div>
 {% endexample %}
   </div>
 
@@ -146,7 +146,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-red--dark"></div>
+<div class="background-color--fa-red--dark"></div>
 {% endexample %}
   </div>
 
@@ -162,7 +162,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-blue--dark"></div>
+<div class="background-color--fa-blue--dark"></div>
 {% endexample %}
   </div>
 
@@ -178,7 +178,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-blue--x-dark"></div>
+<div class="background-color--fa-blue--x-dark"></div>
 {% endexample %}
   </div>
 
@@ -194,7 +194,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-blue--xx-dark"></div>
+<div class="background-color--fa-blue--xx-dark"></div>
 {% endexample %}
   </div>
 
@@ -210,7 +210,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-green--dark"></div>
+<div class="background-color--fa-green--dark"></div>
 {% endexample %}
   </div>
 
@@ -233,7 +233,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-yellow--x-light"></div>
+<div class="background-color--fa-yellow--x-light"></div>
 {% endexample %}
   </div>
 
@@ -249,7 +249,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-red--x-light"></div>
+<div class="background-color--fa-red--x-light"></div>
 {% endexample %}
   </div>
 
@@ -265,7 +265,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-purple--x-light"></div>
+<div class="background-color--fa-purple--x-light"></div>
 {% endexample %}
   </div>
 
@@ -281,7 +281,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-blue--x-light"></div>
+<div class="background-color--fa-blue--x-light"></div>
 {% endexample %}
   </div>
 
@@ -297,7 +297,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-blue--xx-light"></div>
+<div class="background-color--fa-blue--xx-light"></div>
 {% endexample %}
   </div>
 
@@ -313,7 +313,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--fa-green--x-light"></div>
+<div class="background-color--fa-green--x-light"></div>
 {% endexample %}
   </div>
 
@@ -336,7 +336,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-1"></div>
+<div class="background-color--gray-1"></div>
 {% endexample %}
   </div>
 
@@ -352,7 +352,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-2"></div>
+<div class="background-color--gray-2"></div>
 {% endexample %}
   </div>
 
@@ -368,7 +368,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-3"></div>
+<div class="background-color--gray-3"></div>
 {% endexample %}
   </div>
 
@@ -384,7 +384,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-4"></div>
+<div class="background-color--gray-4"></div>
 {% endexample %}
   </div>
 
@@ -400,7 +400,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-5"></div>
+<div class="background-color--gray-5"></div>
 {% endexample %}
   </div>
 
@@ -416,7 +416,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-6"></div>
+<div class="background-color--gray-6"></div>
 {% endexample %}
   </div>
 
@@ -432,7 +432,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-7"></div>
+<div class="background-color--gray-7"></div>
 {% endexample %}
   </div>
 
@@ -448,7 +448,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-8"></div>
+<div class="background-color--gray-8"></div>
 {% endexample %}
   </div>
 
@@ -464,7 +464,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-9"></div>
+<div class="background-color--gray-9"></div>
 {% endexample %}
   </div>
 
@@ -480,7 +480,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-10"></div>
+<div class="background-color--gray-10"></div>
 {% endexample %}
   </div>
 
@@ -496,7 +496,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-11"></div>
+<div class="background-color--gray-11"></div>
 {% endexample %}
   </div>
 
@@ -512,7 +512,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-12"></div>
+<div class="background-color--gray-12"></div>
 {% endexample %}
   </div>
 
@@ -528,7 +528,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-13"></div>
+<div class="background-color--gray-13"></div>
 {% endexample %}
   </div>
 
@@ -544,7 +544,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-14"></div>
+<div class="background-color--gray-14"></div>
 {% endexample %}
   </div>
 
@@ -560,7 +560,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-15"></div>
+<div class="background-color--gray-15"></div>
 {% endexample %}
   </div>
 
@@ -576,7 +576,7 @@ These are the background colors we’re using in production — no more. All col
 
   <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--gray-16"></div>
+<div class="background-color--gray-16"></div>
 {% endexample %}
   </div>
 
@@ -587,12 +587,12 @@ These are the background colors we’re using in production — no more. All col
 
 <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-color--inherit"></div>
-<div class="u-background-color--inherit--active"></div>
-<div class="u-background-color--inherit--hover"></div>
-<div class="u-background-color--transparent"></div>
-<div class="u-background-color--transparent--active"></div>
-<div class="u-background-color--transparent--hover"></div>
+<div class="background-color--inherit"></div>
+<div class="background-color--inherit--active"></div>
+<div class="background-color--inherit--hover"></div>
+<div class="background-color--transparent"></div>
+<div class="background-color--transparent--active"></div>
+<div class="background-color--transparent--hover"></div>
 {% endexample %}
 </div>
 
@@ -602,8 +602,8 @@ No mixins, only utility classes.
 
 <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background--none"></div>
-<div class="u-background--inherit"></div>
+<div class="background--none"></div>
+<div class="background--inherit"></div>
 {% endexample %}
 </div>
 
@@ -613,7 +613,7 @@ No mixins, only utility classes.
 
 <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-image--none"></div>
+<div class="background-image--none"></div>
 {% endexample %}
 </div>
 
@@ -623,14 +623,14 @@ No mixins, only utility classes.
 
 <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-position--center-center"></div>
-<div class="u-background-position--center-top"></div>
-<div class="u-background-position--left-bottom"></div>
-<div class="u-background-position--left-center"></div>
-<div class="u-background-position--left-top"></div>
-<div class="u-background-position--right-bottom"></div>
-<div class="u-background-position--right-center"></div>
-<div class="u-background-position--right-top"></div>
+<div class="background-position--center-center"></div>
+<div class="background-position--center-top"></div>
+<div class="background-position--left-bottom"></div>
+<div class="background-position--left-center"></div>
+<div class="background-position--left-top"></div>
+<div class="background-position--right-bottom"></div>
+<div class="background-position--right-center"></div>
+<div class="background-position--right-top"></div>
 {% endexample %}
 </div>
 
@@ -640,7 +640,7 @@ No mixins, only utility classes.
 
 <div class="DocsExample DocsExample--labelUtilityClasses DocsExample--renderHidden">
 {% example html %}
-<div class="u-background-size--contain"></div>
-<div class="u-background-size--cover"></div>
+<div class="background-size--contain"></div>
+<div class="background-size--cover"></div>
 {% endexample %}
 </div>

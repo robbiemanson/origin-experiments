@@ -235,14 +235,14 @@ Example (uses JSX syntax):
 {% endhighlight %}
 
 #### HTML class and attribute order
-Component classes (including their `--modifierName` classes) should always be listed first, in alphabetical order. `u-UtilityName` classes should be listed last, except when temporary `is-stateOfComponent` are being applied, in which case they should be listed last.
+Component classes (including their `--modifierName` classes) should always be listed first, in alphabetical order. `UtilityName` classes should be listed last, except when temporary `is-stateOfComponent` are being applied, in which case they should be listed last.
 
 HTML attributes should be listed in alphabetical order.
 
 Example (uses JSX syntax):
 
 {% highlight html %}
-<div className="TableView-cell TableView-cell--borderBottomNone u-textWeight--medium is-disabled" data-ui-component="tableview-cell">
+<div className="TableView-cell TableView-cell--borderBottomNone textWeight--medium is-disabled" data-ui-component="tableview-cell">
 {% endhighlight %}
 
 ### HTML practical example

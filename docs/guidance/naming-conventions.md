@@ -43,5 +43,5 @@ Set in regular, lowercase CSS syntax because they typically only manipulate a si
 
 ### Using utilities in HTML
 {% highlight html %}
-<div class="u-background-color--fa-blue u-margin--large"></div>
+<div class="background-color--fa-blue margin--large"></div>
 {% endhighlight %}

@@ -167,7 +167,7 @@ These size examples show both HTML and CSS mixin implementations.
 
 
 ## Colors
-If you need a color or shade outside of this selection, you can use a utility class (e.g. `u-text-color--fa-blue`) from our list of [text color values]({{ site.github.repo }}/blob/master/assets/scss/global/utilities/_utility-values.scss) — only if there are only 1 or 2 instances of the heading color in whatever you're working on.
+If you need a color or shade outside of this selection, you can use a utility class (e.g. `text-color--fa-blue`) from our list of [text color values]({{ site.github.repo }}/blob/master/assets/scss/global/utilities/_utility-values.scss) — only if there are only 1 or 2 instances of the heading color in whatever you're working on.
 
 If you want to set an alternative default heading color for your whole project, do so in your local copy of [_heading-settings.scss]({{ site.github.repo }}/blob/master/assets/scss/local/fonts/_heading-settings.scss).
 

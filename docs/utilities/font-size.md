@@ -24,7 +24,7 @@ Using the Sass mixin is preferred, as it forces us to consider all objects as [c
 ### Default
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-size--default u-line-height--default">
+<div class="font-size--default line-height--default">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses. We make products to empower people with the knowledge and means to make it easier, and let them do things their way. But whatever we make is only as good as the people making it.
 </div>
 {% endexample %}
@@ -42,7 +42,7 @@ Using the Sass mixin is preferred, as it forces us to consider all objects as [c
 ### XX-Small
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-size--xx-small u-line-height--default">
+<div class="font-size--xx-small line-height--default">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses. We make products to empower people with the knowledge and means to make it easier, and let them do things their way. But whatever we make is only as good as the people making it.
 </div>
 {% endexample %}
@@ -61,7 +61,7 @@ Using the Sass mixin is preferred, as it forces us to consider all objects as [c
 ### X-Small
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-size--x-small u-line-height--default">
+<div class="font-size--x-small line-height--default">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses. We make products to empower people with the knowledge and means to make it easier, and let them do things their way. But whatever we make is only as good as the people making it.
 </div>
 {% endexample %}
@@ -79,7 +79,7 @@ Using the Sass mixin is preferred, as it forces us to consider all objects as [c
 ### Small
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-size--small u-line-height--default">
+<div class="font-size--small line-height--default">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses. We make products to empower people with the knowledge and means to make it easier, and let them do things their way. But whatever we make is only as good as the people making it.
 </div>
 {% endexample %}
@@ -97,7 +97,7 @@ Using the Sass mixin is preferred, as it forces us to consider all objects as [c
 ### Large
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-size--large u-line-height--default">
+<div class="font-size--large line-height--default">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses. We make products to empower people with the knowledge and means to make it easier, and let them do things their way. But whatever we make is only as good as the people making it.
 </div>
 {% endexample %}
@@ -116,7 +116,7 @@ Using the Sass mixin is preferred, as it forces us to consider all objects as [c
 ### X-Large
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-size--x-large u-line-height--tight">
+<div class="font-size--x-large line-height--tight">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses. We make products to empower people with the knowledge and means to make it easier, and let them do things their way.
 </div>
 {% endexample %}
@@ -134,7 +134,7 @@ Using the Sass mixin is preferred, as it forces us to consider all objects as [c
 ### XX-Large
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-size--xx-large u-line-height--x-tight">
+<div class="font-size--xx-large line-height--x-tight">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses.
 </div>
 {% endexample %}
@@ -156,7 +156,7 @@ Using the Sass mixin is preferred, as it forces us to consider all objects as [c
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-lg-font-size--x-large u-lg-line-height--tight">
+<div class="lg-font-size--x-large lg-line-height--tight">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses.
 </div>
 {% endexample %}

@@ -16,8 +16,8 @@ Related: [clear]({{ site.baseurl }}/utilities/clear)
 ### Examples
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-floatContainer">
-  <div class="u-background-color--gray-13 u-float--left">
+<div class="floatContainer">
+  <div class="background-color--gray-13 float--left">
     This element floats to the left
   </div>
 </div>
@@ -39,8 +39,8 @@ Related: [clear]({{ site.baseurl }}/utilities/clear)
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-floatContainer">
-  <div class="u-background-color--gray-13 u-md-float--right">
+<div class="floatContainer">
+  <div class="background-color--gray-13 md-float--right">
     This doesn't float until the medium breakpoint, when it floats to the right
   </div>
 </div>
@@ -64,8 +64,8 @@ Related: [clear]({{ site.baseurl }}/utilities/clear)
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-floatContainer">
-  <div class="u-background-color--gray-13 u-float--none">
+<div class="floatContainer">
+  <div class="background-color--gray-13 float--none">
     This element would have any inherited float removed
   </div>
 </div>

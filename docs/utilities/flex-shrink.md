@@ -20,9 +20,9 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 ### Examples
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox">
-  <div class="u-background-color--gray-12 u-flex-shrink--0">Item will not shrink.</div>
-  <div class="u-background-color--gray-15">By default, flex items shrink to accommodate other items that contain more content. But despite this flex item having much more content than the other item, the other item won't shrink to help accommodate all of this content. It'll maintain the width of its content, without wrapping.</div>
+<div class="flexbox">
+  <div class="background-color--gray-12 flex-shrink--0">Item will not shrink.</div>
+  <div class="background-color--gray-15">By default, flex items shrink to accommodate other items that contain more content. But despite this flex item having much more content than the other item, the other item won't shrink to help accommodate all of this content. It'll maintain the width of its content, without wrapping.</div>
 </div>
 {% endexample %}
 </div>
@@ -42,9 +42,9 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox">
-  <div class="u-background-color--gray-15">While flex items shrink to accommodate other items that more content by default, we can use `flex-grow` to shrink those flex items to a smaller relative size than the default.</div>
-  <div class="u-background-color--gray-13 u-flex-shrink--2">Item will shrink smaller than normal.</div>
+<div class="flexbox">
+  <div class="background-color--gray-15">While flex items shrink to accommodate other items that more content by default, we can use `flex-grow` to shrink those flex items to a smaller relative size than the default.</div>
+  <div class="background-color--gray-13 flex-shrink--2">Item will shrink smaller than normal.</div>
 </div>
 {% endexample %}
 </div>

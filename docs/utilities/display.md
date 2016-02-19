@@ -17,7 +17,7 @@ Apply `display` values with utility classes. Values can optionally be applied on
 
 ### Examples
 {% example html %}
-<div class="u-background-color--gray-13 u-display--block">
+<div class="background-color--gray-13 display--block">
   This is displayed as a block-level element
 </div>
 {% endexample %}
@@ -25,7 +25,7 @@ Apply `display` values with utility classes. Values can optionally be applied on
 
 <div class="DocsExample DocsExample--grouped">
 {% example html %}
-<div class="u-background-color--gray-13 u-display--inline-block u-md-display--block">
+<div class="background-color--gray-13 display--inline-block md-display--block">
   This is an inline-block element until the medium breakpoint, when it becomes block-level
 </div>
 {% endexample %}
@@ -45,25 +45,25 @@ Apply `display` values with utility classes. Values can optionally be applied on
 
 
 {% example html %}
-<div class="u-background-color--gray-13 u-display--none">
+<div class="background-color--gray-13 display--none">
   This is hidden from view
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-background-color--gray-13 u-display--table">
+<div class="background-color--gray-13 display--table">
   This is displayed as a `table` element
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-background-color--gray-13 u-display--table-cell">
+<div class="background-color--gray-13 display--table-cell">
   This is displayed as a `table-cell` element
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-background-color--gray-13 u-display--table-row">
+<div class="background-color--gray-13 display--table-row">
   This is displayed as a `table-row` element
 </div>
 {% endexample %}

@@ -14,7 +14,7 @@ Apply `visibility` values with utility classes. Values can optionally be applied
 
 ### Examples
 {% example html %}
-<div class="u-visibility--hidden">
+<div class="visibility--hidden">
   This content is hidden but maintains its rendered dimensions
 </div>
 {% endexample %}
@@ -22,7 +22,7 @@ Apply `visibility` values with utility classes. Values can optionally be applied
 
 <div class="DocsExample DocsExample--grouped">
 {% example html %}
-<div class="u-visibility--hidden u-md-visibility--visible">
+<div class="visibility--hidden md-visibility--visible">
   This content is hidden by default, but becomes visible at the medium breakpoint
 </div>
 {% endexample %}
@@ -42,7 +42,7 @@ Apply `visibility` values with utility classes. Values can optionally be applied
 
 
 {% example html %}
-<div class="u-visibility--visible">
+<div class="visibility--visible">
   This content would override any inherited `visibility: hidden` rule  
 </div>
 {% endexample %}

@@ -66,7 +66,7 @@ See [principles]({{ site.baseurl }}/guidance/principles) for more details.
 
 ### After
 {% example html %}
-<p class="u-font-size--x-large u-line-height--tight u-text-color--gray-7">
+<p class="font-size--x-large line-height--tight text-color--gray-7">
   FreeAgent is a company born out of the frustration that business finances are just too damn hard for freelancers and small businesses.
 </p>
 {% endexample %}
@@ -129,9 +129,9 @@ We then use mixins to generate HTML utility classes for the values in our lists 
   border-radius: map-get($border-radius-values, $value) $important;
 }
 
-@if $u-classes-border-radius == true {
+@if $classes-border-radius == true {
   @each $border-radius, $border-radius-value in $border-radius-values {
-    .u-border-radius--#{$border-radius} {
+    .border-radius--#{$border-radius} {
       border-radius: $border-radius-value !important;
     }
   }
@@ -152,7 +152,7 @@ Master file where all required `.scss` partials are `@import`ed.
 Where all of our CSS values, their variables, lists, and maps are defined.
 
 #### [_utility-settings.scss]({{ site.github.repo }}/blob/master/assets/scss/local/_utility-settings.scss)  
-Where the `true`/`false` flags are set, defining which `u-property--#` utility classes will render in the output CSS. This is one of a set of 'local' files copied and customised for each project that implements Origin.
+Where the `true`/`false` flags are set, defining which `property--#` utility classes will render in the output CSS. This is one of a set of 'local' files copied and customised for each project that implements Origin.
 
 #### [_project-aliases.scss]({{ site.github.repo }}/blob/master/assets/scss/global/utilities/_project-aliases.scss)  
 This file can be used to override the values in [_utility-values.scss]({{ site.github.repo }}/blob/master/assets/scss/global/utilities/_utility-values.scss) for particular projects. Why? If an applications default `font-size` is actually Origins `small` value, we can shift the whole scale here so the mixins and utility classes are always relative to project. So we can say `@include font-size(default)` when we want the default size, instead of `@include font-size(small)`, even though `default` outputs a different size to the default Origin one.
@@ -178,6 +178,6 @@ See [components documentation]({{ site.baseurl }}/guidance/components) for more 
 
 Origin uses specific naming conventions based on [SUIT CSS](https://suitcss.github.io/) so the difference between components and utilities is clear. These conventions are enforced using a linter.
 
-`ComponentNames` are clearly identified by their upper camel case syntax. `u-utility-classes` follow the syntax conventions of regular CSS, as that’s what they manipulate.
+`ComponentNames` are clearly identified by their upper camel case syntax. `utility-classes` follow the syntax conventions of regular CSS, as that’s what they manipulate.
 
 See [naming conventions]({{ site.baseurl }}/guidance/naming-conventions) for more details.

@@ -17,7 +17,7 @@ Apply `list-style` values using our utility classes.
 
 ### Examples
 {% example html %}
-<ul class="u-list-style--decimal">
+<ul class="list-style--decimal">
   <li>Decimal list style</li>
   <li>Decimal list style</li>
   <li>Decimal list style</li>
@@ -25,7 +25,7 @@ Apply `list-style` values using our utility classes.
 {% endexample %}
 
 {% example html %}
-<ul class="u-list-style--decimal-inside">
+<ul class="list-style--decimal-inside">
   <li>Decimal-inside list style</li>
   <li>Decimal-inside list style</li>
   <li>Decimal-inside list style</li>
@@ -33,7 +33,7 @@ Apply `list-style` values using our utility classes.
 {% endexample %}
 
 {% example html %}
-<ul class="u-list-style--decimal-outside">
+<ul class="list-style--decimal-outside">
   <li>Decimal-outside list style</li>
   <li>Decimal-outside list style</li>
   <li>Decimal-outside list style</li>
@@ -41,7 +41,7 @@ Apply `list-style` values using our utility classes.
 {% endexample %}
 
 {% example html %}
-<ul class="u-list-style--disc">
+<ul class="list-style--disc">
   <li>Disc list style</li>
   <li>Disc list style</li>
   <li>Disc list style</li>
@@ -49,7 +49,7 @@ Apply `list-style` values using our utility classes.
 {% endexample %}
 
 {% example html %}
-<ul class="u-list-style--disc-inside">
+<ul class="list-style--disc-inside">
   <li>Disc-inside list style</li>
   <li>Disc-inside list style</li>
   <li>Disc-inside list style</li>
@@ -57,7 +57,7 @@ Apply `list-style` values using our utility classes.
 {% endexample %}
 
 {% example html %}
-<ul class="u-list-style--disc-outside">
+<ul class="list-style--disc-outside">
   <li>Disc-outside list style</li>
   <li>Disc-outside list style</li>
   <li>Disc-outside list style</li>
@@ -65,7 +65,7 @@ Apply `list-style` values using our utility classes.
 {% endexample %}
 
 {% example html %}
-<ul class="u-list-style--none">
+<ul class="list-style--none">
   <li>No list style</li>
   <li>No list style</li>
   <li>No list style</li>

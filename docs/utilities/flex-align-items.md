@@ -22,10 +22,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 ### Examples
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox u-flex-align-items--baseline">
-  <div class="u-background-color--gray-14">Flex item</div>
-  <div class="u-background-color--gray-12">Flex item</div>
-  <div class="u-background-color--gray-13">Flex item</div>
+<div class="flexbox flex-align-items--baseline">
+  <div class="background-color--gray-14">Flex item</div>
+  <div class="background-color--gray-12">Flex item</div>
+  <div class="background-color--gray-13">Flex item</div>
 </div>
 {% endexample %}
 </div>
@@ -42,10 +42,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox u-flex-align-items--center">
-  <div class="u-background-color--gray-14">Flex item</div>
-  <div class="u-background-color--gray-12">Flex item</div>
-  <div class="u-background-color--gray-13">Flex item</div>
+<div class="flexbox flex-align-items--center">
+  <div class="background-color--gray-14">Flex item</div>
+  <div class="background-color--gray-12">Flex item</div>
+  <div class="background-color--gray-13">Flex item</div>
 </div>
 {% endexample %}
 </div>
@@ -62,10 +62,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox u-flex-align-items--flex-end">
-  <div class="u-background-color--gray-14">Flex item</div>
-  <div class="u-background-color--gray-12">Flex item</div>
-  <div class="u-background-color--gray-13">Flex item</div>
+<div class="flexbox flex-align-items--flex-end">
+  <div class="background-color--gray-14">Flex item</div>
+  <div class="background-color--gray-12">Flex item</div>
+  <div class="background-color--gray-13">Flex item</div>
 </div>
 {% endexample %}
 </div>
@@ -82,10 +82,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox u-flex-align-items--flex-start">
-  <div class="u-background-color--gray-14">Flex item</div>
-  <div class="u-background-color--gray-12">Flex item</div>
-  <div class="u-background-color--gray-13">Flex item</div>
+<div class="flexbox flex-align-items--flex-start">
+  <div class="background-color--gray-14">Flex item</div>
+  <div class="background-color--gray-12">Flex item</div>
+  <div class="background-color--gray-13">Flex item</div>
 </div>
 {% endexample %}
 </div>
@@ -102,10 +102,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-flexbox u-flex-align-items--stretch">
-  <div class="u-background-color--gray-14">Flex item</div>
-  <div class="u-background-color--gray-12">Flex item</div>
-  <div class="u-background-color--gray-13">Flex item</div>
+<div class="flexbox flex-align-items--stretch">
+  <div class="background-color--gray-14">Flex item</div>
+  <div class="background-color--gray-12">Flex item</div>
+  <div class="background-color--gray-13">Flex item</div>
 </div>
 {% endexample %}
 </div>

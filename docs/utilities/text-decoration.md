@@ -16,43 +16,43 @@ Apply `text-decoration` values with utility classes, in normal, `:active`, `:foc
 
 ### Examples
 {% example html %}
-<a class="u-text-decoration--underline" href="#">
+<a class="text-decoration--underline" href="#">
   This link has a `1px` underline drawn underneath it
 </a>
 {% endexample %}
 
 {% example html %}
-<a class="u-text-decoration--underline--active u-text-decoration--underline--hover" href="#">
+<a class="text-decoration--underline--active text-decoration--underline--hover" href="#">
   This link has a `1px` underline drawn underneath it on `:hover` and `:active`
 </a>
 {% endexample %}
 
 {% example html %}
-<p class="u-text-decoration--line-through">
+<p class="text-decoration--line-through">
   This paragraph has a `1px` line drawn through its 'middle' point
 </p>
 {% endexample %}
 
 {% example html %}
-<a class="u-text-decoration--inherit" href="#">
+<a class="text-decoration--inherit" href="#">
   This link inherits the text decoration from its parent
 </a>
 {% endexample %}
 
 {% example html %}
-<a class="u-text-decoration--initial" href="#">
+<a class="text-decoration--initial" href="#">
   This link will have any inherited text decoration reset to the normal text decoration for its element type
 </a>
 {% endexample %}
 
 {% example html %}
-<a class="u-text-decoration--none" href="#">
+<a class="text-decoration--none" href="#">
   This link removes any existing text decoration that's present
 </a>
 {% endexample %}
 
 {% example html %}
-<a class="u-text-decoration--overline" href="#">
+<a class="text-decoration--overline" href="#">
   This link has a `1px` line drawn above its 'top' point
 </a>
 {% endexample %}

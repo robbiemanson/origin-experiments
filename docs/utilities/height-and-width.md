@@ -13,8 +13,8 @@ Use to apply `height`, `width`, `max-width`, and `min-height`values with mixins 
 * `100viewport` (`100vh`)
 
 {% example html %}
-<div class="u-background-color--gray-16">
-  <div class="u-background-color--gray-13 u-height--100percent">
+<div class="background-color--gray-16">
+  <div class="background-color--gray-13 height--100percent">
     This element is 100% of the height of its own content area (not the parent element's)
   </div>
 </div>
@@ -34,24 +34,24 @@ Use to apply `height`, `width`, `max-width`, and `min-height`values with mixins 
 * `100viewport` (`100vw`)
 
 {% example html %}
-<div class="u-background-color--gray-16">
-  <div class="u-background-color--gray-13 u-width--half">
+<div class="background-color--gray-16">
+  <div class="background-color--gray-13 width--half">
     This element is half the width of the parent element
   </div>
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-background-color--gray-16">
-  <div class="u-background-color--gray-13 u-width--third">
+<div class="background-color--gray-16">
+  <div class="background-color--gray-13 width--third">
     This element is one quarter the width of the parent element
   </div>
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-background-color--gray-16">
-  <div class="u-background-color--gray-13 u-width--three-quarters">
+<div class="background-color--gray-16">
+  <div class="background-color--gray-13 width--three-quarters">
     This element is three quarters the width of the parent element
   </div>
 </div>
@@ -67,16 +67,16 @@ Use to apply `height`, `width`, `max-width`, and `min-height`values with mixins 
 * `100viewport` (`100vw`)
 
 {% example html %}
-<div class="u-background-color--gray-16">
-  <div class="u-background-color--gray-13 u-max-width--100percent">
+<div class="background-color--gray-16">
+  <div class="background-color--gray-13 max-width--100percent">
     The maximum width of this element is 100% of the parent element
   </div>
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-background-color--gray-16">
-  <div class="u-background-color--gray-13 u-max-width--none">
+<div class="background-color--gray-16">
+  <div class="background-color--gray-13 max-width--none">
     Any `max-width` values inherited by this element will be overwritten to `none`
   </div>
 </div>
@@ -90,16 +90,16 @@ Use to apply `height`, `width`, `max-width`, and `min-height`values with mixins 
 * `100percent` (`100%`)
 
 {% example html %}
-<div class="u-background-color--gray-16">
-  <div class="u-background-color--gray-13 u-max-height--100percent">
+<div class="background-color--gray-16">
+  <div class="background-color--gray-13 max-height--100percent">
     The minimum height of this element is 100% of its own content area
   </div>
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-background-color--gray-16">
-  <div class="u-background-color--gray-13 u-min-height--0">
+<div class="background-color--gray-16">
+  <div class="background-color--gray-13 min-height--0">
     Any `min-height` values inherited by this element will be overwritten to `0`
   </div>
 </div>

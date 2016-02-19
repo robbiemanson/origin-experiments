@@ -14,7 +14,7 @@ Allows for control over how HTML elements respond to mouse/touch events, includi
 * `none` (prevents all click, state and cursor options)
 
 {% example html %}
-<div class="u-background-color--gray-13 u-pointer-events--none">
+<div class="background-color--gray-13 pointer-events--none">
   This element has all click, state, and cursor options disabled
 </div>
 {% endexample %}
@@ -27,7 +27,7 @@ Disables the default tap highlighting behaviour in WebKit-based browsers. Removi
 * `none`
 
 {% example html %}
-<a class="u-tap-highlight--none" href="#">
+<a class="tap-highlight--none" href="#">
   This link will not inherit the default `tap-highlight` behaviour
 </a>
 {% endexample %}
@@ -40,7 +40,7 @@ Prevents the user from selecting text.
 * `none`
 
 {% example html %}
-<div class="u-user-select--none">
+<div class="user-select--none">
   None of this text is selectable, and therefore can be copied/pasted.
 </div>
 {% endexample %}

@@ -15,18 +15,18 @@ Apply `vertical-align` values with utility classes.
 ### Examples
 {% example html %}
 <p>
-  This demonstrates what happens with <span class="u-vertical-align--bottom">bottom vertical alignment</span>
+  This demonstrates what happens with <span class="vertical-align--bottom">bottom vertical alignment</span>
 </p>
 {% endexample %}
 
 {% example html %}
 <p>
-  This demonstrates what happens with <span class="u-vertical-align--middle">middle vertical alignment</span>
+  This demonstrates what happens with <span class="vertical-align--middle">middle vertical alignment</span>
 </p>
 {% endexample %}
 
 {% example html %}
 <p>
-  This demonstrates what happens with <span class="u-vertical-align--top">top vertical alignment</span>
+  This demonstrates what happens with <span class="vertical-align--top">top vertical alignment</span>
 </p>
 {% endexample %}

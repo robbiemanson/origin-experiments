@@ -21,9 +21,9 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
   <div class="DocsExample-preview DocsExample-preview--flex-flow DocsExample-preview--flex-flow1">
     <div class="DocsExample-preview-child">
       <div class="DocsExampleFlexContainer">
-        <div class="u-background-color--gray-15">Flex item with less content</div>
-        <div class="u-background-color--gray-13">The flex-flow property is a shorthand for setting the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes.</div>
-        <div class="u-background-color--gray-12">Flex item with less content</div>
+        <div class="background-color--gray-15">Flex item with less content</div>
+        <div class="background-color--gray-13">The flex-flow property is a shorthand for setting the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes.</div>
+        <div class="background-color--gray-12">Flex item with less content</div>
       </div>
     </div>
   </div>
@@ -38,9 +38,9 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
   <div class="DocsExample-preview DocsExample-preview--flex-flow DocsExample-preview--flex-flow2">
     <div class="DocsExample-preview-child">
       <div class="DocsExampleFlexContainer">
-        <div class="u-background-color--gray-15">Flex item with less content</div>
-        <div class="u-background-color--gray-13">The flex-flow property is a shorthand for setting the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes.</div>
-        <div class="u-background-color--gray-12">Flex item with less content</div>
+        <div class="background-color--gray-15">Flex item with less content</div>
+        <div class="background-color--gray-13">The flex-flow property is a shorthand for setting the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes.</div>
+        <div class="background-color--gray-12">Flex item with less content</div>
       </div>
     </div>
   </div>
@@ -55,9 +55,9 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
   <div class="DocsExample-preview DocsExample-preview--flex-flow DocsExample-preview--flex-flow3">
     <div class="DocsExample-preview-child">
       <div class="DocsExampleFlexContainer">
-        <div class="u-background-color--gray-15">Flex item with less content</div>
-        <div class="u-background-color--gray-13">The flex-flow property is a shorthand for setting the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes.</div>
-        <div class="u-background-color--gray-12">Flex item with less content</div>
+        <div class="background-color--gray-15">Flex item with less content</div>
+        <div class="background-color--gray-13">The flex-flow property is a shorthand for setting the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes.</div>
+        <div class="background-color--gray-12">Flex item with less content</div>
       </div>
     </div>
   </div>
@@ -72,9 +72,9 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
   <div class="DocsExample-preview DocsExample-preview--flex-flow DocsExample-preview--flex-flow4">
     <div class="DocsExample-preview-child">
       <div class="DocsExampleFlexContainer">
-        <div class="u-background-color--gray-15">Flex item with less content</div>
-        <div class="u-background-color--gray-13">The flex-flow property is a shorthand for setting the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes.</div>
-        <div class="u-background-color--gray-12">Flex item with less content</div>
+        <div class="background-color--gray-15">Flex item with less content</div>
+        <div class="background-color--gray-13">The flex-flow property is a shorthand for setting the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes.</div>
+        <div class="background-color--gray-12">Flex item with less content</div>
       </div>
     </div>
   </div>

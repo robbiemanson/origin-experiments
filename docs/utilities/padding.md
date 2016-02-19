@@ -22,8 +22,8 @@ Applies default padding to all four sides of an element
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--default">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--default">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -41,8 +41,8 @@ Applies large padding to left side only
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding-left--large">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding-left--large">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -60,8 +60,8 @@ Shorthand; applies small `padding-bottom` and `padding-top`, and large `padding-
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding-top--small u-padding-right--large u-padding-bottom--small u-padding-left--large">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding-top--small padding-right--large padding-bottom--small padding-left--large">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -79,8 +79,8 @@ Turning a small `padding-bottom` into extra large at the medium breakpoint
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding-bottom--small u-md-padding-bottom--x-large">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding-bottom--small md-padding-bottom--x-large">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -102,8 +102,8 @@ Shorthand; applies different paddings to all four sides
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding-bottom--x-large u-padding-left--xx-small u-padding-right--large u-padding-top--default">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding-bottom--x-large padding-left--xx-small padding-right--large padding-top--default">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -122,8 +122,8 @@ Shorthand; applies different paddings to all four sides
 ### Default
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--default">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--default">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -140,8 +140,8 @@ Shorthand; applies different paddings to all four sides
 ### XX-Small
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--xx-small">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--xx-small">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -158,8 +158,8 @@ Shorthand; applies different paddings to all four sides
 ### X-Small
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--x-small">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--x-small">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -176,8 +176,8 @@ Shorthand; applies different paddings to all four sides
 ### Small
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--small">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--small">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -194,8 +194,8 @@ Shorthand; applies different paddings to all four sides
 ### Large
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--large">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--large">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -212,8 +212,8 @@ Shorthand; applies different paddings to all four sides
 ### X-Large
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--x-large">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--x-large">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -230,8 +230,8 @@ Shorthand; applies different paddings to all four sides
 ### XX-Large
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--xx-large">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--xx-large">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -256,8 +256,8 @@ Apply default amount of `padding` only at large breakpoint
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-lg-padding--default">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 lg-padding--default">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -277,8 +277,8 @@ Overwrite small amount of `padding` with extra large amount at medium breakpoint
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--small u-md-padding--x-large">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--small md-padding--x-large">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>

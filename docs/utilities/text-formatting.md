@@ -14,8 +14,8 @@ Prevent text from wrapping onto multiple lines, and instead truncates it with an
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-13" style="width: 50%;">
-  <div class="u-text-truncate">
+<div class="background-color--gray-13" style="width: 50%;">
+  <div class="text-truncate">
     This text will be truncated when it reaches the boundaries its parent container
   </div>
 </div>
@@ -36,11 +36,11 @@ Force text onto multiple lines. Only required when the text of its parent elemen
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-text-truncate" style="width: 50%;">
-  <div class="u-background-color--gray-15 u-text-truncate">
+<div class="text-truncate" style="width: 50%;">
+  <div class="background-color--gray-15 text-truncate">
     This text will be truncated when it reaches the boundaries its parent container
   </div>
-  <div class="u-background-color--gray-13 u-text-multiLine">
+  <div class="background-color--gray-13 text-multiLine">
     This text will wrap despite its parent container having styles that force text content to be truncated  
   </div>
 </div>
@@ -64,7 +64,7 @@ Force text onto multiple lines. Only required when the text of its parent elemen
 * `oblique`
 
 {% example html %}
-<div class="u-font-style--italic">
+<div class="font-style--italic">
   Apply italics using `font-style`
 </div>
 {% endexample %}
@@ -72,7 +72,7 @@ Force text onto multiple lines. Only required when the text of its parent elemen
 If a given font family has an italic or oblique face embedded, the browser will select that face. If no italic or oblique face is available, the browser will mimic the sloping effect. If italic is defined and there is no italic face available, the browser will look for an oblique face before it tries to mimic the italic. The same applies to oblique; it too will look first for an italic face.
 
 {% example html %}
-<div class="u-font-style--normal">
+<div class="font-style--normal">
   Reinstate normal `font-style`
 </div>
 {% endexample %}
@@ -80,7 +80,7 @@ If a given font family has an italic or oblique face embedded, the browser will 
 Italic forms are generally cursive in nature while oblique faces are typically sloped versions of the regular face. However, if the font being used does not have italic or oblique faces available, in most cases there is little, if any, difference between italic and oblique.
 
 {% example html %}
-<div class="u-font-style--oblique">
+<div class="font-style--oblique">
   Apply oblique `font-style`
 </div>
 {% endexample %}
@@ -95,25 +95,25 @@ Italic forms are generally cursive in nature while oblique faces are typically s
 * `right`
 
 {% example html %}
-<div class="u-text-align--center">
+<div class="text-align--center">
   Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned.
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-text-align--justify">
+<div class="text-align--justify">
   Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned.
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-text-align--left">
+<div class="text-align--left">
   Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned.
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-text-align--right">
+<div class="text-align--right">
   Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned. Using the `text-align` utility classes allows us to define the way text is aligned.
 </div>
 {% endexample %}
@@ -124,7 +124,7 @@ Controls the usage of kerning information in a font file. If the font is well-ke
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-kerning--normal">
+<div class="font-kerning--normal">
   If the font is well-kerned, using `font-kerning` will allow for optimum spacing between characters.
 </div>
 {% endexample %}
@@ -141,8 +141,8 @@ Controls the usage of kerning information in a font file. If the font is well-ke
 
 ## white-space
 {% example html %}
-<div class="u-background-color--gray-13 u-overflow--hidden">
-  <div class="u-white-space--nowrap">
+<div class="background-color--gray-13 overflow--hidden">
+  <div class="white-space--nowrap">
     Prevent text from wrapping, without any truncation. Prevent text from wrapping, without any truncation. Prevent text from wrapping, without any truncation. Prevent text from wrapping, without any truncation.
   </div>
 </div>
@@ -157,16 +157,16 @@ Specify whether or not the browser can break lines within words to prevent overf
 * `normal`
 
 {% example html %}
-<div class="u-background-color--gray-13" style="width: 50%;">
-  <div class="u-word-wrap--break-word">
+<div class="background-color--gray-13" style="width: 50%;">
+  <div class="word-wrap--break-word">
     Becausethisisasinglestringitnormallywouldn'tbebrokenbythebrowsertopreventoverflow
   </div>
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-background-color--gray-13" style="width: 50%;">
-  <div class="u-word-wrap--normal">
+<div class="background-color--gray-13" style="width: 50%;">
+  <div class="word-wrap--normal">
     Becausethisisasinglestringitnormallywouldn'tbebrokenbythebrowsertopreventoverflow
   </div>
 </div>

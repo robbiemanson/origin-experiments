@@ -21,9 +21,9 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
   <div class="DocsExample-preview DocsExample-preview--flex-order DocsExample-preview--flex-order1">
     <div class="DocsExample-preview-child">
       <div class="DocsExampleFlexContainer">
-        <div class="u-background-color--gray-13">Flex item one</div>
-        <div class="u-background-color--gray-12">Flex item two</div>
-        <div class="u-background-color--gray-11">Flex item three</div>
+        <div class="background-color--gray-13">Flex item one</div>
+        <div class="background-color--gray-12">Flex item two</div>
+        <div class="background-color--gray-11">Flex item three</div>
       </div>
     </div>
   </div>
@@ -39,11 +39,11 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
   <div class="DocsExample-preview DocsExample-preview--flex-order DocsExample-preview--flex-order2">
     <div class="DocsExample-preview-child">
       <div class="DocsExampleFlexContainer">
-        <div class="u-background-color--gray-14">Flex item one</div>
-        <div class="u-background-color--gray-13">Flex item two</div>
-        <div class="u-background-color--gray-12">Flex item three</div>
-        <div class="u-background-color--gray-11">Flex item four</div>
-        <div class="u-background-color--gray-9">Flex item five</div>
+        <div class="background-color--gray-14">Flex item one</div>
+        <div class="background-color--gray-13">Flex item two</div>
+        <div class="background-color--gray-12">Flex item three</div>
+        <div class="background-color--gray-11">Flex item four</div>
+        <div class="background-color--gray-9">Flex item five</div>
       </div>
     </div>
   </div>

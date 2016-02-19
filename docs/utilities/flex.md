@@ -22,10 +22,10 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
   <div class="DocsExample-preview DocsExample-preview--flex DocsExample-preview--flex1">
     <div class="DocsExample-preview-child">
       <div class="DocsExampleFlexContainer">
-        <div class="u-background-color--gray-15">Flex item</div>
-        <div class="u-background-color--gray-13">Flex item</div>
-        <div class="u-background-color--gray-12">Flex item</div>
-        <div class="u-background-color--gray-11">Flex item</div>
+        <div class="background-color--gray-15">Flex item</div>
+        <div class="background-color--gray-13">Flex item</div>
+        <div class="background-color--gray-12">Flex item</div>
+        <div class="background-color--gray-11">Flex item</div>
       </div>
     </div>
   </div>
@@ -45,8 +45,8 @@ This work is derived from [sass-flex-mixin](https://github.com/mastastealth/sass
   <div class="DocsExample-preview DocsExample-preview--flex DocsExample-preview--flex2">
     <div class="DocsExample-preview-child">
       <div class="DocsExampleFlexContainer">
-        <div class="u-background-color--gray-15">Flex item one, doesn't shrink</div>
-        <div class="u-background-color--gray-12">Flex item two. Flex item two. Flex item two. Flex item two. Flex item two. Flex item two. Flex item two. Flex item two. Flex item two.</div>
+        <div class="background-color--gray-15">Flex item one, doesn't shrink</div>
+        <div class="background-color--gray-12">Flex item two. Flex item two. Flex item two. Flex item two. Flex item two. Flex item two. Flex item two. Flex item two. Flex item two.</div>
       </div>
     </div>
   </div>

@@ -15,7 +15,7 @@ Font files for additional weights to those shown below do exist, but we don't us
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-weight--light">
+<div class="font-weight--light">
   The light weight (`300`) for text
 </div>
 {% endexample %}
@@ -32,7 +32,7 @@ Font files for additional weights to those shown below do exist, but we don't us
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-weight--normal">
+<div class="font-weight--normal">
   The normal weight (`400`) for text
 </div>
 {% endexample %}
@@ -49,7 +49,7 @@ Font files for additional weights to those shown below do exist, but we don't us
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-weight--semi-bold">
+<div class="font-weight--semi-bold">
   The semi-bold weight (`600`) for text
 </div>
 {% endexample %}
@@ -66,7 +66,7 @@ Font files for additional weights to those shown below do exist, but we don't us
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-weight--bold">
+<div class="font-weight--bold">
   The bold weight (`700`) for text
 </div>
 {% endexample %}

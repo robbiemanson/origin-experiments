@@ -148,7 +148,7 @@ linters:
 
   SelectorFormat:
     enabled: true
-    class_convention_explanation: 'should either be written in UpperCamelCase, or begin with `is-`, `has-`, `u-`, or `l-`'
+    class_convention_explanation: 'should either be written in UpperCamelCase, or begin with `is-`, `has-`, or `l-`'
     ignored_types: element
     class_convention: |
       (?x)                                      # Prevent new lines from being converted to spaces in our regex.

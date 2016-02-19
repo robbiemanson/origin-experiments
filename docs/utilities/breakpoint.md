@@ -21,8 +21,8 @@ Turning a small `padding` into extra large at the medium breakpoint
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--gray-12 u-padding--small u-md-padding--x-large">
-  <div class="u-background-color--gray-15">&nbsp;</div>
+<div class="background-color--gray-12 padding--small md-padding--x-large">
+  <div class="background-color--gray-15">&nbsp;</div>
 </div>
 {% endexample %}
 </div>
@@ -44,7 +44,7 @@ Increase font size at the large breakpoint
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-size--small u-lg-font-size--large">
+<div class="font-size--small lg-font-size--large">
   I will magically get large at the large breakpoint
 </div>
 {% endexample %}
@@ -67,7 +67,7 @@ Hide an element until the large breakpoint
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-display--none u-lg-display--block">
+<div class="display--none lg-display--block">
   I will magically appear at the large breakpoint
 </div>
 {% endexample %}
@@ -90,8 +90,8 @@ Float an element to the right at the extra large breakpoint
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-floatContainer">
-  <div class="u-x-lg-float--right">
+<div class="floatContainer">
+  <div class="x-lg-float--right">
     I will magically float to the right the large breakpoint
   </div>
 </div>

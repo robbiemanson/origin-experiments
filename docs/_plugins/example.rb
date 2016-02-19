@@ -55,7 +55,7 @@ eos
       end
 
       def example(output)
-        "<div class=\"DocsExample-render u-floatContainer\">#{output}</div>"
+        "<div class=\"DocsExample-render floatContainer\">#{output}</div>"
       end
 
       def render_rouge(code)

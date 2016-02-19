@@ -17,7 +17,7 @@ Use to apply or remove `border-radius` using our scale of values. Can be used on
 ### Examples
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--fa-green u-border-radius--default">
+<div class="background-color--fa-green border-radius--default">
   <br /><br />
 </div>
 {% endexample %}
@@ -32,7 +32,7 @@ Use to apply or remove `border-radius` using our scale of values. Can be used on
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--fa-green u-border-radius--small">
+<div class="background-color--fa-green border-radius--small">
   <br /><br />
 </div>
 {% endexample %}
@@ -47,7 +47,7 @@ Use to apply or remove `border-radius` using our scale of values. Can be used on
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--fa-green u-border-radius--large">
+<div class="background-color--fa-green border-radius--large">
   <br /><br />
 </div>
 {% endexample %}
@@ -62,7 +62,7 @@ Use to apply or remove `border-radius` using our scale of values. Can be used on
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--fa-green u-border-radius--x-large">
+<div class="background-color--fa-green border-radius--x-large">
   <br /><br />
 </div>
 {% endexample %}
@@ -77,7 +77,7 @@ Use to apply or remove `border-radius` using our scale of values. Can be used on
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--fa-green u-border-radius--xx-large">
+<div class="background-color--fa-green border-radius--xx-large">
   <br /><br />
 </div>
 {% endexample %}
@@ -92,7 +92,7 @@ Use to apply or remove `border-radius` using our scale of values. Can be used on
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--fa-green u-border-radius--0">
+<div class="background-color--fa-green border-radius--0">
   <br /><br />
 </div>
 {% endexample %}
@@ -107,7 +107,7 @@ Use to apply or remove `border-radius` using our scale of values. Can be used on
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--fa-green u-border-radius-bottom-right--large">
+<div class="background-color--fa-green border-radius-bottom-right--large">
   <br /><br />
 </div>
 {% endexample %}
@@ -122,7 +122,7 @@ Use to apply or remove `border-radius` using our scale of values. Can be used on
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-background-color--fa-green u-border-radius-top-right--xx-large">
+<div class="background-color--fa-green border-radius-top-right--xx-large">
   <br /><br />
 </div>
 {% endexample %}

@@ -22,7 +22,7 @@ Utilities help us turn CSS into a more rigorous design system. Sass mixins and H
 * [`margin`]({{ site.baseurl }}/utilities/margin)
 * [`padding`]({{ site.baseurl }}/utilities/padding)
 
-Almost all values for each property is rendered as a `u-property--value` class name. All values can also be passed to mixins.
+Almost all values for each property is rendered as a `property--value` class name. All values can also be passed to mixins.
 
 
 ### Benefits

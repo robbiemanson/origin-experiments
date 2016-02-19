@@ -8,67 +8,67 @@ Our `opacity` utility classes provide a 10-step scale of values based on percent
 
 ### Examples
 {% example html %}
-<div class="u-opacity--100">
+<div class="opacity--100">
   This element has an `opacity` value of `100` (`100%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--90">
+<div class="opacity--90">
   This element has an `opacity` value of `90` (`90%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--80">
+<div class="opacity--80">
   This element has an `opacity` value of `80` (`80%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--70">
+<div class="opacity--70">
   This element has an `opacity` value of `70` (`70%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--60">
+<div class="opacity--60">
   This element has an `opacity` value of `60` (`60%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--50">
+<div class="opacity--50">
   This element has an `opacity` value of `50` (`50%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--40">
+<div class="opacity--40">
   This element has an `opacity` value of `40` (`40%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--30">
+<div class="opacity--30">
   This element has an `opacity` value of `30` (`30%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--20">
+<div class="opacity--20">
 This element has an `opacity` value of `20` (`20%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--10">
+<div class="opacity--10">
 This element has an `opacity` value of `10` (`10%`)
 </div>
 {% endexample %}
 
 {% example html %}
-<div class="u-opacity--0">
+<div class="opacity--0">
   This element has an `opacity` value of `0` (`0%`)
 </div>
 {% endexample %}

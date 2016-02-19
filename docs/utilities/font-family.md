@@ -11,7 +11,7 @@ All of our font stacks include sensible backup options if the primary font can't
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-family--default">
+<div class="font-family--default">
   Source Sans Pro is our default typeface
 </div>
 {% endexample %}
@@ -30,7 +30,7 @@ Before using Source Sans Pro, we used Helvetica Neue exclusively. While this sti
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-family--legacy">
+<div class="font-family--legacy">
   Helvetica Neue is our legacy typeface
 </div>
 {% endexample %}
@@ -49,7 +49,7 @@ We often use Effra for headings in editorial design work, primarily on the commu
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-family--editorial">
+<div class="font-family--editorial">
   Effra is our editorial typeface
 </div>
 {% endexample %}
@@ -68,7 +68,7 @@ We often use Swister for handwritten 'notes' in our product and comms work. It i
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-family--handwritten">
+<div class="font-family--handwritten">
   Swister is our handwritten typeface
 </div>
 {% endexample %}
@@ -87,7 +87,7 @@ Whenever we show code examples, we use Monaco. Its font stack includes a number 
 
 <div class="DocsExample DocsExample--grouped DocsExample--labelUtilityClasses">
 {% example html %}
-<div class="u-font-family--monospace">
+<div class="font-family--monospace">
   Monaco is our monospace typeface
 </div>
 {% endexample %}
